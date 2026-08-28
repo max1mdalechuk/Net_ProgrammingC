@@ -1,7 +1,0 @@
-﻿.vs/
-[Dd]ebug/
-[Rr]elease/
-x64/
-out/
-*.ipch
-*.vsidx
