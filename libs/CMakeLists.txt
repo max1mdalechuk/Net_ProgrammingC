@@ -1,0 +1,4 @@
+add_subdirectory(common_utils)
+add_subdirectory(common_net)
+add_subdirectory(common_thread)
+add_subdirectory(common_protocols)
